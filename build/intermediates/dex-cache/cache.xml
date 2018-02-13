@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/MissTank/Documents/Project3_atank2/gallery/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/MissTank/Documents/Project3_atank2/gallery/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_617dd4f87e81712f6153e67365effc95cc62857b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MissTank/Documents/Project3_atank2/gallery/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9edad2cb8a377abaf8563125251109a536873fff">
+        <dex dex="/Users/MissTank/Documents/Project3_atank2/gallery/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e6b5fe68d2d5e896454d80a0e25f6aec10ca334/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MissTank/Documents/Project3_atank2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4f8caea92003cbf382076cae55e52e7ea2588c0d">
+        <dex dex="/Users/MissTank/Documents/Project3_atank2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b8e5689c80e80d78ccd20d25c900c85c0a6f6641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MissTank/Documents/Project3_atank2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/MissTank/Documents/Project3_atank2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_80d31d1fb4db9b6fa12bebdc62e51bc259ed5827/classes.dex" />
+    </item>
+
+</items>

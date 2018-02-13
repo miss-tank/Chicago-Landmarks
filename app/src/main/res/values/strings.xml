@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Chicago city attractions </string>
+    <string-array name="Titles">
+        <item>Water Tower place</item>
+        <item>Millenium Park</item>
+        <item>Shedd Aquarium</item>
+        <item>Lake Shore Drive </item>
+        <item>UIC</item>
+        <item>Wicker Park</item>
+        <item>Willis Tower</item>
+        <item>John Hancock</item>
+    </string-array>
+
+
+    <string-array name="sites">
+        <item>https://www.shopwatertower.com/en.html</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://chicago.curbed.com/2017/7/12/15958664/chicago-lake-shore-drive-oak-street-beach-improvement-plan</item>
+        <item>https://www.uic.edu/</item>
+        <item>http://www.wickerparkbucktown.com//</item>
+        <item>http://www.willistower.com/</item>
+        <item>http://www.360chicago.com/</item>
+    </string-array>
+
+</resources>
+
